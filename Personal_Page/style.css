@@ -1,0 +1,19 @@
+#banner {
+    top: 0px;
+    box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-color: #592059;
+}
+
+.container{
+    background-color: #722872;
+    height: 5rem;
+}
+
+body{
+    margin:0;
+    padding:0;
+    color:#666;
+    background:#888;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:20px;
+  }
